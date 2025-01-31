@@ -30,6 +30,8 @@ npm run start        # Start the interactive avatar UI
 This folder manages the real-time STT, LLM, and TTS processing.
 ```bash
 cd pipecat-realtime-demo-main
+python -m venv <name of your virtual environment>
+.\<name of your virtual environment>\Scripts\activate
 pip install -r requirements.txt  # Ensure Python 3.10 or later (avoid 3.13 due to compatibility issues)
 python main.py  # Start the real-time backend
 ```
