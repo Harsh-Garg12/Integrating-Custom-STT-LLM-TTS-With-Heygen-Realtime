@@ -46,5 +46,8 @@ This project is based on open-source repositories from **HeyGen**:
 
 Modified and extended to support **custom STT, LLM, and TTS** integration.
 
+## Resources Used
+- Pipecat Documentation: [Pipecat Server LLM Services - Gemini](https://docs.pipecat.ai/server/services/llm/gemini)
+
 ---
 ⭐ If you find this project useful, consider starring the repo!
