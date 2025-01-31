@@ -1,0 +1,8 @@
+pipecat-ai[silero,websocket,deepgram,openai,elevenlabs,google]
+fastapi~=0.115.0; extra == "websocket"
+uvicorn
+python-json-logger==2.0.2
+requests==2.32.3
+flask==3.0.3
+aiohttp
+python-dotenv
