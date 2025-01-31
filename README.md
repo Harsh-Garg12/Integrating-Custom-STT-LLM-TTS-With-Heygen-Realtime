@@ -12,7 +12,7 @@ This repository integrates **custom Speech-to-Text (STT), Large Language Model (
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/Integrating-Custom-STT-LLM-TTS-With-Heygen-Realtime.git
+git clone https://github.com/Harsh-Garg12/Integrating-Custom-STT-LLM-TTS-With-Heygen-Realtime.git
 cd Integrating-Custom-STT-LLM-TTS-With-Heygen-Realtime
 ```
 
