@@ -44,7 +44,7 @@ python main.py  # Start the real-time backend
 ## 📝 Credits
 This project is based on open-source repositories from **HeyGen**:
 - **[InteractiveAvatarNextJSDemo](https://github.com/HeyGen-Official/InteractiveAvatarNextJSDemo)** (realtime-alpha-demo branch)
-- **[pipecat-realtime-demo-main](https://github.com/HeyGen-Official/pipecat-realtime-demo-main)**
+- **[pipecat-realtime-demo](https://github.com/HeyGen-Official/pipecat-realtime-demo)**
 
 Modified and extended to support **custom STT, LLM, and TTS** integration.
 
