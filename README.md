@@ -2,6 +2,8 @@
 
 This repository integrates **custom Speech-to-Text (STT), Large Language Model (LLM), and Text-to-Speech (TTS)** capabilities with **Heygen's Interactive Avatar** using real-time communication.
 
+![tmb3](https://github.com/user-attachments/assets/4d5a29db-f867-48c4-a9ec-82b9387c7ef9)
+
 ## 🚀 Features
 - **Interactive AI Avatar**: Engage in real-time conversations with a Heygen avatar.
 - **Custom STT, LLM, and TTS Integration**: Modify and enhance Heygen's pipeline with your own AI models.
